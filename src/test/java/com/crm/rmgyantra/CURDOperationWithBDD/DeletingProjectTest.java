@@ -1,4 +1,4 @@
-package com.crm.rmgyantra.CURDOperationWithOutBDD;
+package com.crm.rmgyantra.CURDOperationWithBDD;
 
 import org.testng.annotations.Test;
 

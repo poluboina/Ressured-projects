@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.crm.rmgyantra.CURDOpertionWithBDD.CreatingProjectTest">
+      <class name="com.crm.rmgyantra.POJOLibrary.Dataprovider_MulitipleData">
         <methods>
-          <include name="creatingProjectTest"/>
+          <include name="multipleData" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- com.crm.rmgyantra.CURDOpertionWithBDD.CreatingProjectTest -->
+      </class> <!-- com.crm.rmgyantra.POJOLibrary.Dataprovider_MulitipleData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
